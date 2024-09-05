@@ -1,0 +1,6 @@
+@SureCarsApi_HostAddress = http://localhost:5160
+
+GET {{SureCarsApi_HostAddress}}/Init/
+Accept: application/json
+
+###
